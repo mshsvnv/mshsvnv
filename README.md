@@ -1,4 +1,4 @@
-<h1 align="left">Makfa Lopuhina aka Masha Savinova</h1>
+<h1 align="left">Makfa aka Masha Savinova</h1>
 
 <br>
 
