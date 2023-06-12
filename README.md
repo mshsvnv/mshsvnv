@@ -4,8 +4,6 @@
 
  :computer: Student ICS7 of __BMSTU__ (2rd year) 
 
- :dna: Trying to be a kind of __bioengineer__
-
  :muscle: Sometimes make cool stuff
 <br>
 <h3 align="left">Connect with me:</h3>
