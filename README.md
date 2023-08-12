@@ -2,9 +2,8 @@
 
 <br>
 
- :computer: Student ICS7 of __BMSTU__ (2rd year) 
+ :computer: Student ICS7 of __BMSTU__ (3rd year) 
 
- :muscle: Sometimes make cool stuff
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
