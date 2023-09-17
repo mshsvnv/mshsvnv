@@ -1,9 +1,5 @@
-<h1 align="left">Makfa aka Masha Savinova</h1>
-
 <br>
-
  :computer: Student ICS7 of __BMSTU__ (3rd year) 
-
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
