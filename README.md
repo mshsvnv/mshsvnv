@@ -1,6 +1,3 @@
-<br>
- :computer: Student ICS7 of __BMSTU__ (3rd year) 
-<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://t.me/akamakfa" target="blank"><img align="center"
